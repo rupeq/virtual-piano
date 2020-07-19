@@ -1,0 +1,46 @@
+body {
+    background-color: springgreen;
+}
+
+.container {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.piano-buttons {
+    display: inline-block;
+    background-color: white;
+    width: 50px;
+    margin-left: -10px;
+    border: 2px solid grey;
+    padding: 170px 0 30px 0;
+}
+
+.piano-buttons-extra {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    position: relative;
+    padding: 70px 15px;
+    bottom: 100px;
+}
+
+.E {
+    right: 309px;
+}
+
+.W {
+    right: 315px;
+}
+
+.T {
+    right: 255px;
+}
+
+.U {
+    right: 240px;
+}
+
+.Y {
+    right: 248px;
+}
